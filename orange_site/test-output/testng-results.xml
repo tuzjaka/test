@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59373" started-at="2017-06-13T11:58:05Z" finished-at="2017-06-13T11:59:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59373" started-at="2017-06-13T11:58:05Z" finished-at="2017-06-13T11:59:04Z">
+      <class name="com.orange.FirstTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.orange.FirstTest@239963d8]" name="setup" is-config="true" duration-ms="3875" started-at="2017-06-13T14:58:05Z" finished-at="2017-06-13T14:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testNumberOne()[pri:1, instance:com.orange.FirstTest@239963d8]" name="testNumberOne" duration-ms="6095" started-at="2017-06-13T14:58:09Z" finished-at="2017-06-13T14:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberOne -->
+        <test-method status="PASS" signature="testNumberTwo()[pri:2, instance:com.orange.FirstTest@239963d8]" name="testNumberTwo" duration-ms="10906" started-at="2017-06-13T14:58:15Z" finished-at="2017-06-13T14:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberTwo -->
+        <test-method status="PASS" signature="testNumberThree()[pri:3, instance:com.orange.FirstTest@239963d8]" name="testNumberThree" duration-ms="10996" started-at="2017-06-13T14:58:26Z" finished-at="2017-06-13T14:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberThree -->
+        <test-method status="PASS" signature="testNumberFour()[pri:4, instance:com.orange.FirstTest@239963d8]" name="testNumberFour" duration-ms="25809" started-at="2017-06-13T14:58:37Z" finished-at="2017-06-13T14:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberFour -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.FirstTest@239963d8]" name="tearDown" is-config="true" duration-ms="1663" started-at="2017-06-13T14:59:03Z" finished-at="2017-06-13T14:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orange.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
